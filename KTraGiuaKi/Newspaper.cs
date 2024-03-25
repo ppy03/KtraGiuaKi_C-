@@ -17,14 +17,14 @@ namespace KTraGiuaKi
             this.NgayPH = NgayPH;
            
         }
-        public void NewspaperNhap()
+        public override void Nhap()
         {
             Console.WriteLine("nhap NgayPH:");
             this.NgayPH = DateTime.Parse(Console.ReadLine());
             base.Nhap();
             base.IDDM = 2;
         }
-         public virtual void NewspaperXuat()
+         public override void Xuat()
         {
             Console.WriteLine("NgayPH: " + NgayPH);           
             base.Xuat();

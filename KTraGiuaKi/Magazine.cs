@@ -17,7 +17,7 @@ namespace KTraGiuaKi
             this.SoPH = SoPH;
             this.TrangPH = TrangPH;
         }
-        public void MagazineNhap()
+        public override void Nhap()
         {
             Console.WriteLine("nhap so trang:");
             this.SoPH = int.Parse(Console.ReadLine());
@@ -26,7 +26,7 @@ namespace KTraGiuaKi
             base.Nhap();
             base.IDDM = 3;
         }
-        public virtual void MagazineXuat()
+        public override void Xuat()
         {
             Console.WriteLine("SoPh: " + SoPH);
             Console.WriteLine("TrangPH: " + TrangPH);

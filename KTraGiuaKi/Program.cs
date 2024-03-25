@@ -20,22 +20,22 @@ namespace KTraGiuaKi
                 switch (cate)
                 {
                     case 1:
-                        Book document1 = new Book();
-                        document1.BookNhap();
-                        document1.BookXuat();
+                        Document document1 = new Book();
+                        document1.Nhap();
+                        document1.Xuat();
                         Listdocuments.Add(document1);
                         break;
                     case 2:
-                        Newspaper document2 = new Newspaper();
-                        document2.NewspaperNhap();
-                        document2.NewspaperXuat();
+                        Document document2 = new Newspaper();
+                        document2.Nhap();
+                        document2.Xuat();
                         Listdocuments.Add(document2);
 
                         break;
                     case 3:
-                        Magazine document3 = new Magazine();
-                        document3.MagazineNhap();
-                        document3.MagazineXuat();
+                        Document document3 = new Magazine();
+                        document3.Nhap();
+                        document3.Xuat();
                         Listdocuments.Add(document3);
                         break;
                 }

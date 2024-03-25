@@ -18,7 +18,7 @@ namespace KTraGiuaKi
             this.TenTG = TenTG;
             this.SoTrang = SoTrang;
         }
-        public  void BookNhap()
+        public override void Nhap()
         {
             Console.WriteLine("nhap tenTG:");
             this.TenTG = Console.ReadLine();
@@ -27,7 +27,7 @@ namespace KTraGiuaKi
             base.Nhap();
             base.IDDM = 1;         
         }
-        public  void BookXuat()
+        public override void Xuat()
         {
             Console.WriteLine("TenTG: " + TenTG);
             Console.WriteLine("SoTrang: " + SoTrang);
