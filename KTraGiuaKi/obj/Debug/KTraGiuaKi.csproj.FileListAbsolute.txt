@@ -1,0 +1,7 @@
+D:\Hocki2 2023-2024\LaptrinhC#\KTraGiuaKi\KTraGiuaKi\bin\Debug\KTraGiuaKi.exe.config
+D:\Hocki2 2023-2024\LaptrinhC#\KTraGiuaKi\KTraGiuaKi\bin\Debug\KTraGiuaKi.exe
+D:\Hocki2 2023-2024\LaptrinhC#\KTraGiuaKi\KTraGiuaKi\bin\Debug\KTraGiuaKi.pdb
+D:\Hocki2 2023-2024\LaptrinhC#\KTraGiuaKi\KTraGiuaKi\obj\Debug\KTraGiuaKi.csproj.AssemblyReference.cache
+D:\Hocki2 2023-2024\LaptrinhC#\KTraGiuaKi\KTraGiuaKi\obj\Debug\KTraGiuaKi.csproj.CoreCompileInputs.cache
+D:\Hocki2 2023-2024\LaptrinhC#\KTraGiuaKi\KTraGiuaKi\obj\Debug\KTraGiuaKi.exe
+D:\Hocki2 2023-2024\LaptrinhC#\KTraGiuaKi\KTraGiuaKi\obj\Debug\KTraGiuaKi.pdb
